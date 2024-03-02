@@ -64,7 +64,7 @@ if($name !=''&& $email !=''&& $mobile !=''&& $message !='')
 
 //  To redirect form on a particular page
 
-header("Location:https://lakeayurveda.netlify.app/thanku.html");
+header("Location:https://lakeayurveda2.netlify.app/thanku.html");
 
 }
 
