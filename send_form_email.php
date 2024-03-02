@@ -82,7 +82,7 @@ echo "<center><div align='center'>";
 
 echo "<h1 style='font-family:arial, verdana; font-size:15pt;'>Your enquiry has been sent successfully!</h1>";
 
-echo "<a href='https://lakeayurveda.netlify.app/'><img src='http://fibsologic.in/images/logo.png'/></a>";
+echo "<a href='https://lakeayurveda2.netlify.app/'><img src='http://fibsologic.in/images/logo.png'/></a>";
 
 echo "  <br /> ";
 
